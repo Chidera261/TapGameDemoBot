@@ -5,5 +5,6 @@ function greet(name){ Bot.sendMessage(`Hey ${name}, Welcome Back) }
 
 publish({
   sayHello: hello,
-  sayGoodbyeTo: goodbye
+  sayGoodbyeTo: goodbye,
+greet: greet
 })
