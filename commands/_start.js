@@ -26,7 +26,7 @@ let url = WebApp.getUrl({
 
 let welcomeText;
 // It is have personal data: loadUrl
-welcomeText = "Hello. It is demo Tap Game Bot. \n\nYou can play now!",
+welcomeText = "👍 Hello. It is demo Tap Game Bot. \n\nYou can play now!",
 // it is for debug. Try to don't show url for user.
 // welcomeText = `Hello. It is demo Tap Game Bot. \n\nYou can [play now](${url})!`,
 
